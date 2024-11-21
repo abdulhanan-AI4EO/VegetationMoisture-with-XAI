@@ -92,7 +92,7 @@ The project’s methodology consists of three main stages:
 
 A comprehensive diagram of the framework illustrates the integration of remote sensing data, meteorological information, and advanced modeling techniques to deliver accurate and explainable predictions.
 
-![Framework Diagram](Diagram/framework_diagram.png)
+![Framework Diagram](framework_diagram.png)
 
 ---
 
