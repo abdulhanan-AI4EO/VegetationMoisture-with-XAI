@@ -1,6 +1,4 @@
-Here's a sample **README** file for your project based on the content and the notebook you've provided:
 
----
 
 # Vegetation Moisture Prediction Using Time Series Analysis
 
