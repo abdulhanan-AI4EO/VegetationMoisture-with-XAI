@@ -147,7 +147,3 @@ Once the environment is set up, you can run the Jupyter notebook to train and te
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace `"yourusername"` with your actual GitHub username, and update any necessary paths or filenames according to your actual project structure. This README gives a clear overview of the project, how to set it up, and how to use it.
